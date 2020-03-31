@@ -1,1 +1,1 @@
-# Computer_network_applications
+CNA practicals, working on TCP programming with sockets and more are shared here
